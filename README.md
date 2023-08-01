@@ -15,12 +15,16 @@
 <div align="left">  
 <picture>
 <source 
+ # GitHub Stats Card
+
+[![Ranci777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true)](https://github.com/Carson3377/github-readme-stats)
   srcset="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true&theme=white"
   media="(prefers-color-scheme: white)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true"
+ https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: white)"
+ https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true" />
 </picture>
