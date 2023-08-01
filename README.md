@@ -14,6 +14,7 @@
 <h1>⚙ GitHub Analytics</h1>
 <div align="left">  
 
+<div>
  # GitHub Stats Card
 
 # 💻 Tech Stack:
