@@ -15,12 +15,12 @@
 <div align="left">  
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true&theme=white"
+  media="(prefers-color-scheme: white)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: white)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true" />
 </picture>
@@ -43,7 +43,7 @@
  
 <div> 
   <a href="https://instagram.com/vitoria_ranci?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardofrohlich121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto🕴️vitoriaranciaro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
   ![Eagle](https://github.com/Ranci777/personalbr/blob/main/eagle.svg)
