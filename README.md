@@ -14,15 +14,13 @@
 <h1>⚙ GitHub Analytics</h1>
 <div align="left">  
 <picture>
-<source 
+<source> 
  # GitHub Stats Card
 
-[![Ranci777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true)](https://github.com/Carson3377/github-readme-stats
+[![Ranci777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true)](https://github.com/Ranci777/github-readme-stats
+</source>
 
-/>
-<source
- https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true"
-/>
+<picture>
 <img src="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true" />
 </picture>
  
