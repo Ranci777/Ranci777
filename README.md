@@ -15,6 +15,7 @@
 <div align="left">  
 
 <source> 
+<picture>
  # GitHub Stats Card
 
 # 💻 Tech Stack:
@@ -25,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</picture>
 </source>
  
 </div>
