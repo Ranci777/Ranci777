@@ -30,8 +30,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </source>
-
-<picture>
 <img src="https://github-readme-stats.vercel.app/api?username=Ranci777&show_icons=true" />
 </picture>
  
