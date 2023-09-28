@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1100FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Vit%C3%B3ria+Ranciaro;I%C2%B4m+19+years+old;I'm+majoring+in+computer+science)](https://git.io/typing-svg)
 
