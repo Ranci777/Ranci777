@@ -12,8 +12,10 @@
  - ☕ Intermediate OOP in JAVA and JS.
  - I LOVE C#
 
-<h1>⚙ GitHub Analytics</h1>
-<div align="left">  
+
+<h1 style="color: red;">⚙ GitHub Analytics</h1>
+<div align="left"></div>
+...
 
 <div>
 # 💻 Tech Stack:
@@ -26,8 +28,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
-  
-
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -39,7 +39,6 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![PHP](https://img.shields.io/badge/php-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  ##
  
 <div> 
   <a href="https://instagram.com/vitoria_ranci?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
