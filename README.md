@@ -49,7 +49,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff6961&height=120&section=footer"/>
 <div> 
- <h2>ME ACOMPANHE POR OUTROS LUGARES: </h2>
+ <h2>FOLLOW ME: </h2>
   <a href="https://instagram.com/vitoria_ranci?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto🕴️vitoriaranciaro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
