@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff6961&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Vit%C3%B3ria+Ranciaro;I%C2%B4m+19+years+old;I'm+majoring+in+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Vit%C3%B3ria;I%C2%B4m+20+years+old;I'm+majoring+in+computer+science)](https://git.io/typing-svg)
 
 <h1>🙋‍♂️ About me</h1>
 
