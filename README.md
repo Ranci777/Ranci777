@@ -3,14 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Vit%C3%B3ria;I%C2%B4m+20+years+old;I'm+majoring+in+computer+science)](https://git.io/typing-svg)
 
 <h1>🙋‍♂️ About me</h1>
-
-- 🔭 Currently studying C and Python
-- 🌱 Learning Unity and Swift through Udemy and university courses
-- 📈 Interested in improving Full-Stack skills
-- 👨‍💻 Starting studies in SQL and PHP
+- 🛡️ Expert in Cybersecurity, currently focused on enhancing skills in IT security testing
+-  🌱 Junior in IT security testing, continuously learning and improving
 - 🧩 Experimenting with CoffeeScript and TypeScript
-- ☕ Intermediate OOP in JAVA and JS
 - 💻 I LOVE C#
+- 📈 I´m FullStack Developer 
 
 <h1 style="color: red;">⚙ GitHub Analytics</h1>
 <div align="left">
@@ -35,6 +32,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
  
 # 📊 GitHub Stats:
 ![Ranci777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&theme=shadow_red&show_icons=true)
