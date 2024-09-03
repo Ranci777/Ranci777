@@ -18,7 +18,6 @@
 
 <div>
 # 💻 Tech Stack:
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,12 +35,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
- 
-# 📊 GitHub Stats:
-![Ranci777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&theme=shadow_red&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?username=Ranci777&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
@@ -49,7 +42,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&logoColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-%252300f.svg?style=for-the-badge&logo=python&logoColor=blue)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+# 📊 GitHub Stats:
+![Ranci777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&theme=shadow_white&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?username=Ranci777&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
