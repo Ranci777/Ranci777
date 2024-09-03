@@ -13,10 +13,6 @@
 
 - 📈 I’m a Full-Stack Developer
 
-<h1 style="color: red;">⚙ GitHub Analytics</h1>
-<div align="left">
-...
-
 <div>
   
 # 💻 Tech Stack:
@@ -48,13 +44,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+
 # 📊 GitHub Stats:
 ![Ranci777 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranci777&theme=shadow_white&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?username=Ranci777&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<h1 style="color: red;">⚙ GitHub Analytics</h1>
+<div align="left">
+  
 # Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
