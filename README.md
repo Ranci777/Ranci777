@@ -4,9 +4,13 @@
 
 <h1>🙋‍♂️ About me</h1>
 - 🛡️ Expert in Cybersecurity, currently focused on enhancing skills in IT security testing
+
 - 🌱 Junior in IT security testing, continuously learning and improving
+  
 - 🧩 Experimenting with CoffeeScript and TypeScript
+  
 - 💻 I LOVE C#
+
 - 📈 I’m a Full-Stack Developer
 
 <h1 style="color: red;">⚙ GitHub Analytics</h1>
@@ -50,7 +54,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Studying in this moment:
+
+# Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
