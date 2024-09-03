@@ -4,9 +4,13 @@
 
 <h1>🙋‍♂️ About me</h1>
 - 🛡️ Expert in Cybersecurity, currently focused on enhancing skills in IT security testing
+
 -  🌱 Junior in IT security testing, continuously learning and improving
+-  
 - 🧩 Experimenting with CoffeeScript and TypeScript
+- 
 - 💻 I LOVE C#
+- 
 - 📈 I´m FullStack Developer 
 
 <h1 style="color: red;">⚙ GitHub Analytics</h1>
