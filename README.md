@@ -3,14 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Vit%C3%B3ria;I%C2%B4m+20+years+old;I'm+majoring+in+computer+science)](https://git.io/typing-svg)
 
 <h1>🙋‍♂️ About me</h1>
--🛡️ Expert in Cybersecurity, currently focused on enhancing skills in IT security testing
-
--🌱 Junior in IT security testing, continuously learning and improving
-
--🧩 Experimenting with CoffeeScript and TypeScript
-
--💻 I LOVE C#   
--📈 I´m FullStack Developer 
+- 🛡️ Expert in Cybersecurity, currently focused on enhancing skills in IT security testing
+- 🌱 Junior in IT security testing, continuously learning and improving
+- 🧩 Experimenting with CoffeeScript and TypeScript
+- 💻 I LOVE C#
+- 📈 I’m a Full-Stack Developer
 
 <h1 style="color: red;">⚙ GitHub Analytics</h1>
 <div align="left">
@@ -55,6 +52,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -68,5 +66,3 @@
 <a href="mailto:vitoriaranciaro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Eagle](https://github.com/Ranci777/personalbr/blob/main/eagle.svg)
-
-  
