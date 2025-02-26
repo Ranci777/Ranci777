@@ -35,7 +35,6 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranci777&theme=shadow_white&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Ranci777&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
