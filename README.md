@@ -50,8 +50,7 @@
 
 <div align="center">
 <p><b>Visitors Count</b></p>  
-<p><img src=" <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5449a6b10f497200187f690e20f29b4c84f1eb4c'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1377707/t/3"></script>"/></p>
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ranci777.Ranci777)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=footer"/>
