@@ -49,8 +49,8 @@
 ---
 
 <div align="center">
-<p><b>Visitors Count</b></p>  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ranci777.Ranci777)
+  <p><b>Visitors Count</b></p>  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ranci777.Ranci777&style=flat-square&color=ff6961)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=footer"/>
