@@ -33,12 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranci777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ## 📚 Currently Studying:
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
